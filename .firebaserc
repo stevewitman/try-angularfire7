@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tryaf7": {
+      "hosting": {
+        "angularfire7": [
+          "tryaf7"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tryaf7"
+  }
+}
